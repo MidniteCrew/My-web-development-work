@@ -7,7 +7,8 @@ Personal website: https://gabriel.ungur.ca/
 
 Business website: https://www.sitefly.ca/ 
 
-Links: 
+Links:
+
 https://chirolecarrefour.com/
 
 https://santco.onrender.com/ (in progress)
