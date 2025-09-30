@@ -1,5 +1,6 @@
 # Wev Development Projects - Gabriel Ungur
-This repository contains links to all my web development projects that I’ve built through my own business for paying clients.
+This repository contains links to all my web development projects that I’ve built through my own business for paying clients. 
+The code for each website is private for confidentiality reasons, which is why I created this repository to showcase my work.
 
 You can find my signature at the bottom of each page. Pressing on it will bring you to "sitefly.ca".
 
