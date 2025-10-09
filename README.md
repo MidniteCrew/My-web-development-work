@@ -12,6 +12,8 @@ Links:
 
 https://chirolecarrefour.com/ (For chiropractic clinic)
 
+https://vitania.sitefly.ca/ (For a condo)
+
 https://santco.onrender.com/ (in progress)
 
 https://beausoleil.sitefly.ca/ (For a chalet rental business)
