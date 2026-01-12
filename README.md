@@ -14,7 +14,7 @@ Links:
 
 https://chirolecarrefour.com/ (For chiropractic clinic)
 
-https://vitania.sitefly.ca/ (For a condo - all that is left is to add the text.)
+https://vitania.sitefly.ca/ (For a condo)
 
 https://santco.onrender.com/ (in progress)
 
