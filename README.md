@@ -20,7 +20,7 @@ https://santco.onrender.com/ (in progress)
 
 https://beausoleil.sitefly.ca/ (For a chalet rental business)
 
-https://aw.sitefly.ca/ (For a wedding. This website is password-protected and encrypted to ensure the clients’ privacy.)
+https://aw.sitefly.ca/ (For a wedding. This website is password-protected and encrypted to ensure the clients privacy.)
 
 
 
