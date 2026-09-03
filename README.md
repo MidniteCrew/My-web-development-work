@@ -6,24 +6,25 @@ You can find my signature at the bottom of each page. Pressing on it will bring 
 
 Personal website: https://gabriel.ungur.ca/ 
 
-Business website: https://www.sitefly.ca/ 
+Business website: https://www.ungur.ca/ 
 
-Gym Autofiller (software): https://www.gym.sitefly.ca 
+Gym Autofiller (software): https://www.gym.ungur.ca 
 
 Links:
 
+[IN PROGRESS] Internal client management portal (i.e., client data, emails, messages)
 
 https://valoritech.com/    &     https://app.valoritech.com/ (company SaaS product)
 
 https://chirolecarrefour.com/ (For chiropractic clinic)
 
-https://vitania.sitefly.ca/ (For a condo)
+https://vitania.onrender.com/ (For a condo)
 
 https://santco.onrender.com/ (in progress)
 
-https://beausoleil.sitefly.ca/ (For a chalet rental business)
+https://www.beau-soleil.ca/ (For a chalet rental business)
 
-https://aw.sitefly.ca/ (For a wedding. This website is password-protected and encrypted to ensure the clients privacy.)
+https://alexia-william.onrender.com/ (For a wedding. This website is password-protected and encrypted to ensure the clients privacy.)
 
 
 
