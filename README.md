@@ -12,7 +12,7 @@ Gym Autofiller (software): https://gym.ungur.ca/
 
 Links:
 
-[IN PROGRESS] Internal client management portal (i.e., client data, emails, messages)
+[IN PROGRESS] Internal client management portal — centralized client data, email, and messaging (in progress)
 
 https://valoritech.com/    &     https://app.valoritech.com/ (company SaaS product)
 
