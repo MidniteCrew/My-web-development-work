@@ -8,7 +8,7 @@ Business website: https://www.ungur.ca/
 
 Personal website: https://gabriel.ungur.ca/ 
 
-Gym Autofiller (software): https://www.gym.ungur.ca 
+Gym Autofiller (software): https://gym.ungur.ca/
 
 Links:
 
