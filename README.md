@@ -4,9 +4,9 @@ The code for each website is private for confidentiality reasons, which is why I
 
 You can find my signature at the bottom of each page. Pressing on it will bring you to "sitefly.ca".
 
-Personal website: https://gabriel.ungur.ca/ 
-
 Business website: https://www.ungur.ca/ 
+
+Personal website: https://gabriel.ungur.ca/ 
 
 Gym Autofiller (software): https://www.gym.ungur.ca 
 
